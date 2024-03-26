@@ -3,7 +3,7 @@ Bem-vindo à documentação do Pymeo!
 
 Pymeo é um plugin QGis desenvolvido em Python.
 
-.. note::
+.. nota::
 
    This project is under active development.
 

@@ -5,12 +5,14 @@ Pymeo é um plugin QGis desenvolvido em Python.
 
 .. nota::
 
-   This project is under active development.
+   Este projeto está em desenvolvimento.
 
-Contents
+Conteúdo
 --------
 
 .. toctree::
 
-   usage
-   api
+   Introdução
+   Começando
+   Tecnologias
+
